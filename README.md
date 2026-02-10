@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="HCompass Logo" src="docs/public/logo.svg" width="100">
+  <img alt="HCompass Logo" src="assets/images/logo.svg" width="100">
 </p>
 
 <h1 align="center">HCompass</h1>
