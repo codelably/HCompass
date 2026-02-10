@@ -1,0 +1,34 @@
+{
+  "color": [
+    {
+      "name": "text_primary",
+      "value": "#181818",
+      "comment": "重量级文字/标题"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#333333",
+      "comment": "普通级段落文字"
+    },
+    {
+      "name": "text_subtitle",
+      "value": "#7F7F7F",
+      "comment": "次要标题"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#B2B2B2",
+      "comment": "底部标签/描述文字"
+    },
+    {
+      "name": "text_quaternary",
+      "value": "#CCCCCC",
+      "comment": "辅助/禁用文字"
+    },
+    {
+      "name": "text_white",
+      "value": "#FFFFFF",
+      "comment": "按钮文字"
+    }
+  ]
+}

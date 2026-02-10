@@ -1,0 +1,39 @@
+{
+  "color": [
+    {
+      "name": "bg_grey",
+      "value": "#F1F4FA",
+      "comment": "背景底色"
+    },
+    {
+      "name": "bg_white",
+      "value": "#FFFFFF",
+      "comment": "背景颜色"
+    },
+    {
+      "name": "bg_content",
+      "value": "#F8F8F8",
+      "comment": "内容模块底色"
+    },
+    {
+      "name": "bg_red_light",
+      "value": "#0DFF2B2B",
+      "comment": "icon底色（红 5% 透明度）"
+    },
+    {
+      "name": "bg_yellow_light",
+      "value": "#1AFFB703",
+      "comment": "icon底色（黄 10% 透明度）"
+    },
+    {
+      "name": "bg_purple_light",
+      "value": "#1A6831FF",
+      "comment": "icon底色（紫 10% 透明度）"
+    },
+    {
+      "name": "bg_green_light",
+      "value": "#0D09BE4F",
+      "comment": "icon底色（绿 5% 透明度）"
+    }
+  ]
+}

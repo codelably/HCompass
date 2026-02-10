@@ -1,0 +1,29 @@
+{
+  "float": [
+    {
+      "name": "radius_small_x",
+      "value": "4vp",
+      "comment": "超小圆角：图标按钮"
+    },
+    {
+      "name": "radius_small",
+      "value": "8vp",
+      "comment": "小圆角：常规卡片/按钮"
+    },
+    {
+      "name": "radius_medium",
+      "value": "12vp",
+      "comment": "中圆角：中型容器/对话框"
+    },
+    {
+      "name": "radius_large",
+      "value": "16vp",
+      "comment": "大圆角：分类列表等"
+    },
+    {
+      "name": "radius_large_extra",
+      "value": "24vp",
+      "comment": "超大圆角：大型卡片/底部弹窗"
+    }
+  ]
+}

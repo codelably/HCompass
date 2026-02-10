@@ -1,0 +1,268 @@
+{
+  "string": [
+    {
+      "name": "demo_base_network_title",
+      "value": "Base Network Demo"
+    },
+    {
+      "name": "demo_base_network_list_title",
+      "value": "Base Network List Demo"
+    },
+    {
+      "name": "demo_database_title",
+      "value": "Database Demo"
+    },
+    {
+      "name": "demo_database_title_label",
+      "value": "Title"
+    },
+    {
+      "name": "demo_database_title_placeholder",
+      "value": "Enter title"
+    },
+    {
+      "name": "demo_database_desc_label",
+      "value": "Description"
+    },
+    {
+      "name": "demo_database_desc_placeholder",
+      "value": "Enter description (optional)"
+    },
+    {
+      "name": "demo_database_action_save",
+      "value": "Save"
+    },
+    {
+      "name": "demo_database_action_delete",
+      "value": "Delete"
+    },
+    {
+      "name": "demo_database_empty",
+      "value": "No data"
+    },
+    {
+      "name": "demo_database_untitled",
+      "value": "Untitled"
+    },
+    {
+      "name": "demo_local_storage_title",
+      "value": "Local Storage Demo"
+    },
+    {
+      "name": "demo_local_storage_account_label",
+      "value": "Account"
+    },
+    {
+      "name": "demo_local_storage_account_placeholder",
+      "value": "Enter account"
+    },
+    {
+      "name": "demo_local_storage_action_save",
+      "value": "Save"
+    },
+    {
+      "name": "demo_local_storage_action_load",
+      "value": "Load"
+    },
+    {
+      "name": "demo_local_storage_value_empty",
+      "value": "Not set"
+    },
+    {
+      "name": "demo_network_request_title",
+      "value": "Network Request"
+    },
+    {
+      "name": "demo_network_request_get_action",
+      "value": "GET Request"
+    },
+    {
+      "name": "demo_network_request_post_action",
+      "value": "POST Request"
+    },
+    {
+      "name": "demo_network_request_get_success",
+      "value": "Request succeeded, title: %s"
+    },
+    {
+      "name": "demo_network_request_post_success",
+      "value": "POST request succeeded"
+    },
+    {
+      "name": "demo_navigation_with_args_title",
+      "value": "Navigation with Args"
+    },
+    {
+      "name": "demo_navigation_with_args_goods_id_label",
+      "value": "Goods ID"
+    },
+    {
+      "name": "demo_navigation_with_args_goods_name_label",
+      "value": "Goods Name"
+    },
+    {
+      "name": "demo_navigation_with_args_value_empty",
+      "value": "Not provided"
+    },
+    {
+      "name": "demo_navigation_result_title",
+      "value": "Result Return"
+    },
+    {
+      "name": "demo_navigation_result_title_label",
+      "value": "Title"
+    },
+    {
+      "name": "demo_navigation_result_title_placeholder",
+      "value": "Enter title"
+    },
+    {
+      "name": "demo_navigation_result_desc_label",
+      "value": "Description"
+    },
+    {
+      "name": "demo_navigation_result_desc_placeholder",
+      "value": "Enter description"
+    },
+    {
+      "name": "demo_navigation_result_action_submit",
+      "value": "Return with Params"
+    },
+    {
+      "name": "demo_state_management_title",
+      "value": "State Management Demo"
+    },
+    {
+      "name": "demo_state_management_count_label",
+      "value": "Current Count"
+    },
+    {
+      "name": "demo_state_management_action_decrement",
+      "value": "-"
+    },
+    {
+      "name": "demo_state_management_action_increment",
+      "value": "+"
+    },
+    {
+      "name": "demo_state_management_action_reset",
+      "value": "Reset"
+    },
+    {
+      "name": "demo_safe_area_title",
+      "value": "Safe Area Demo"
+    },
+    {
+      "name": "demo_safe_area_unit_tip",
+      "value": "Values are in vp"
+    },
+    {
+      "name": "demo_safe_area_top_label",
+      "value": "Top inset"
+    },
+    {
+      "name": "demo_safe_area_left_label",
+      "value": "Left inset"
+    },
+    {
+      "name": "demo_safe_area_bottom_label",
+      "value": "Bottom inset"
+    },
+    {
+      "name": "demo_safe_area_right_label",
+      "value": "Right inset"
+    },
+    {
+      "name": "demo_screen_adapt_title",
+      "value": "Screen Adapt Demo"
+    },
+    {
+      "name": "demo_screen_adapt_current_breakpoint_label",
+      "value": "Current breakpoint"
+    },
+    {
+      "name": "demo_screen_adapt_tab_home",
+      "value": "Home"
+    },
+    {
+      "name": "demo_screen_adapt_tab_category",
+      "value": "Category"
+    },
+    {
+      "name": "demo_screen_adapt_tab_mine",
+      "value": "Me"
+    },
+    {
+      "name": "demo_screen_adapt_grid_section_title",
+      "value": "Grid Adaptation"
+    },
+    {
+      "name": "demo_screen_adapt_list_section_title",
+      "value": "List Adaptation"
+    },
+    {
+      "name": "demo_screen_adapt_grid_item_format",
+      "value": "Grid Item %d"
+    },
+    {
+      "name": "demo_screen_adapt_list_item_format",
+      "value": "List Item %d"
+    },
+    {
+      "name": "demo_screen_adapt_grid_desc",
+      "value": "Columns adapt by screen size"
+    },
+    {
+      "name": "demo_screen_adapt_list_desc",
+      "value": "Single column on small screens, two on large"
+    },
+    {
+      "name": "demo_screen_adapt_breakpoint_title",
+      "value": "Current Breakpoint"
+    },
+    {
+      "name": "demo_screen_adapt_breakpoint_label",
+      "value": "Breakpoint"
+    },
+    {
+      "name": "demo_screen_adapt_text_section_title",
+      "value": "Text/Size Adaptation"
+    },
+    {
+      "name": "demo_screen_adapt_size_section_title",
+      "value": "Size Adaptation"
+    },
+    {
+      "name": "demo_screen_adapt_text_title",
+      "value": "Title size adapts to screen"
+    },
+    {
+      "name": "demo_screen_adapt_text_desc",
+      "value": "Use bp to define sizes by breakpoint"
+    },
+    {
+      "name": "demo_screen_adapt_text_sample",
+      "value": "Sample text adapts to screen"
+    },
+    {
+      "name": "demo_screen_adapt_text_adaptive_label",
+      "value": "Adaptive"
+    },
+    {
+      "name": "demo_screen_adapt_text_fixed_label",
+      "value": "Fixed"
+    },
+    {
+      "name": "demo_screen_adapt_size_title",
+      "value": "Size adapts to screen"
+    },
+    {
+      "name": "demo_screen_adapt_size_desc",
+      "value": "Use bp to define sizes by breakpoint"
+    },
+    {
+      "name": "demo_screen_adapt_size_label",
+      "value": "Sample size: %s"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyProject"
+    },
+    {
+      "name": "core",
+      "value": "核心"
+    },
+    {
+      "name": "navigation",
+      "value": "导航"
+    },
+    {
+      "name": "about",
+      "value": "关于"
+    },
+    {
+      "name": "expand",
+      "value": "扩展"
+    },
+    {
+      "name": "main_about_desc",
+      "value": "一个优雅的 HarmonyOS 快速开发框架"
+    },
+    {
+      "name": "main_about_link_github_title",
+      "value": "GitHub"
+    },
+    {
+      "name": "main_about_link_github_url",
+      "value": "https://github.com/codelably/HCompass"
+    },
+    {
+      "name": "main_about_link_atomgit_title",
+      "value": "GitCode"
+    },
+    {
+      "name": "main_about_link_atomgit_url",
+      "value": "https://atomgit.com/codelably/HCompass"
+    },
+    {
+      "name": "main_about_link_ui_title",
+      "value": "IBest-UI-V2"
+    },
+    {
+      "name": "main_about_link_ui_url",
+      "value": "https://ibestui-v2.ibestservices.com"
+    },
+    {
+      "name": "main_about_link_orm_title",
+      "value": "IBest-ORM"
+    },
+    {
+      "name": "main_about_link_orm_url",
+      "value": "https://ibest-orm.ibestservices.com"
+    },
+    {
+      "name": "main_about_link_doc_title",
+      "value": "框架文档"
+    },
+    {
+      "name": "main_about_link_doc_url",
+      "value": "https://hcompass.codelably.com"
+    },
+    {
+      "name": "main_about_link_demo_github_title",
+      "value": "青商城 GitHub"
+    },
+    {
+      "name": "main_about_link_demo_github_url",
+      "value": "https://github.com/Joker-x-dev/CoolMallArkTS"
+    },
+    {
+      "name": "main_about_link_demo_gitee_title",
+      "value": "青商城 Gitee"
+    },
+    {
+      "name": "main_about_link_demo_gitee_url",
+      "value": "https://gitee.com/Joker-x-dev/CoolMallArkTS"
+    },
+    {
+      "name": "main_core_network_demo_title",
+      "value": "Network Demo"
+    },
+    {
+      "name": "main_core_network_demo_desc",
+      "value": "把加载/失败/成功 UI 状态统一封装，业务只需提供数据。"
+    },
+    {
+      "name": "main_core_network_list_demo_title",
+      "value": "Network List Demo"
+    },
+    {
+      "name": "main_core_network_list_demo_desc",
+      "value": "分页请求内置空态/失败/加载处理，开发只写列表渲染。"
+    },
+    {
+      "name": "main_core_database_title",
+      "value": "数据库"
+    },
+    {
+      "name": "main_core_database_desc",
+      "value": "对表进行增删改查的基础示例。"
+    },
+    {
+      "name": "main_core_local_storage_title",
+      "value": "本地存储"
+    },
+    {
+      "name": "main_core_local_storage_desc",
+      "value": "本地存储写入与清除示例，演示单值增删改查。"
+    },
+    {
+      "name": "main_core_state_management_title",
+      "value": "状态管理"
+    },
+    {
+      "name": "main_core_state_management_desc",
+      "value": "全局状态共享示例，展示跨页面同步。"
+    },
+    {
+      "name": "main_core_counter_label",
+      "value": "当前计数"
+    },
+    {
+      "name": "main_core_network_request_title",
+      "value": "网络请求"
+    },
+    {
+      "name": "main_core_network_request_desc",
+      "value": "简单的网络请求示例，仅发起请求。"
+    },
+    {
+      "name": "main_navigation_with_args_title",
+      "value": "带参跳转"
+    },
+    {
+      "name": "main_navigation_with_args_desc",
+      "value": "类型安全路由参数，包含商品 ID 与商品名称。"
+    },
+    {
+      "name": "main_navigation_goods_name",
+      "value": "示例商品"
+    },
+    {
+      "name": "main_navigation_result_title",
+      "value": "结果回传"
+    },
+    {
+      "name": "main_navigation_result_desc",
+      "value": "类型安全返回结果，数据结构为 DemoResult。"
+    },
+    {
+      "name": "main_navigation_result_title_label",
+      "value": "回传标题"
+    },
+    {
+      "name": "main_navigation_result_desc_label",
+      "value": "回传说明"
+    },
+    {
+      "name": "main_navigation_result_value_empty",
+      "value": "未收到返回参数"
+    },
+    {
+      "name": "main_navigation_intercept_title",
+      "value": "导航拦截"
+    },
+    {
+      "name": "main_navigation_intercept_desc",
+      "value": "未登录跳转登录页，登录后进入用户资料页。"
+    },
+    {
+      "name": "main_navigation_logged_in",
+      "value": "已登录"
+    },
+    {
+      "name": "main_expand_safe_area_title",
+      "value": "安全区"
+    },
+    {
+      "name": "main_expand_safe_area_desc",
+      "value": "展示安全区 inset 数据，便于适配刘海与手势区域。"
+    },
+    {
+      "name": "main_expand_screen_adapt_title",
+      "value": "屏幕适配"
+    },
+    {
+      "name": "main_expand_screen_adapt_desc",
+      "value": "展示断点与窗口宽度，便于响应式布局适配。"
+    }
+  ]
+}

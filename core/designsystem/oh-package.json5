@@ -1,0 +1,9 @@
+{
+  "name": "@core/designsystem",
+  "version": "1.0.0",
+  "description": "Theme System for Framework",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

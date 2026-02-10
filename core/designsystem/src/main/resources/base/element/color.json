@@ -1,0 +1,74 @@
+{
+  "color": [
+    {
+      "name": "primary",
+      "value": "#465CFF",
+      "comment": "品牌色（菜单栏、按钮、突出文字、图标）"
+    },
+    {
+      "name": "danger",
+      "value": "#FF2B2B",
+      "comment": "危险色/错误提示"
+    },
+    {
+      "name": "warning",
+      "value": "#FFB703",
+      "comment": "警告色"
+    },
+    {
+      "name": "purple",
+      "value": "#6831FF",
+      "comment": "辅助色/紫色"
+    },
+    {
+      "name": "success",
+      "value": "#09BE4F",
+      "comment": "成功色"
+    },
+    {
+      "name": "mask",
+      "value": "#99000000",
+      "comment": "遮罩色（60% 黑）"
+    },
+    {
+      "name": "press",
+      "value": "#33000000",
+      "comment": "按钮点击色（20% 黑）"
+    },
+    {
+      "name": "press_soft",
+      "value": "#0D000000",
+      "comment": "按钮点击色（5% 黑）"
+    },
+    {
+      "name": "shadow",
+      "value": "#0D020426",
+      "comment": "阴影色（5%）"
+    },
+    {
+      "name": "border",
+      "value": "#EEEEEE",
+      "comment": "边框/分割线"
+    },
+    {
+      "name": "gradient_primary_start",
+      "value": "#465CFF",
+      "comment": "主色渐变起点"
+    },
+    {
+      "name": "gradient_primary_end",
+      "value": "#6831FF",
+      "comment": "主色渐变终点"
+    },
+    {
+      "name": "gradient_red_start",
+      "value": "#FD8C8C",
+      "comment": "红色渐变起点"
+    },
+    {
+      "name": "gradient_red_end",
+      "value": "#FF2B2B",
+      "comment": "红色渐变终点"
+    }
+  ]
+}

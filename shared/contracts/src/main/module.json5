@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "contracts",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@shared/state",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@shared/types": "file:../types",
+    "@shared/contracts": "file:../contracts",
+    "@core/network": "file:../../core/network",
+    "@core/util": "file:../../core/util",
+    "@core/di": "file:../../core/di"
+  }
+}

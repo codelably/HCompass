@@ -1,0 +1,24 @@
+{
+  "name": "@package/user",
+  "version": "1.0.0",
+  "description": "用户功能包 - 提供用户信息管理、个人中心等功能",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@ohos/axios": "2.2.7",
+    "@core/base": "file:../../core/base",
+    "@core/di": "file:../../core/di",
+    "@core/module": "file:../../core/module",
+    "@core/common": "file:../../core/common",
+    "@core/navigation": "file:../../core/navigation",
+    "@core/network": "file:../../core/network",
+    "@core/util": "file:../../core/util",
+    "@core/designsystem": "file:../../core/designsystem",
+    "@core/components": "file:../../core/components",
+    "@core/ibestui": "file:../../core/ibestui",
+    "@shared/state": "file:../../shared/state",
+    "@shared/contracts": "file:../../shared/contracts",
+    "@shared/types": "file:../../shared/types"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "color": [
+    {
+      "name": "empty_tint",
+      "value": "#33FFFFFF",
+      "comment": "缺省页图标填充色（20% 白，深色模式）"
+    }
+  ]
+}

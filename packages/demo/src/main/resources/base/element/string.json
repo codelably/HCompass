@@ -1,0 +1,268 @@
+{
+  "string": [
+    {
+      "name": "demo_base_network_title",
+      "value": "Base Network 示例"
+    },
+    {
+      "name": "demo_base_network_list_title",
+      "value": "Base Network List 示例"
+    },
+    {
+      "name": "demo_database_title",
+      "value": "数据库示例"
+    },
+    {
+      "name": "demo_database_title_label",
+      "value": "标题"
+    },
+    {
+      "name": "demo_database_title_placeholder",
+      "value": "请输入标题"
+    },
+    {
+      "name": "demo_database_desc_label",
+      "value": "描述"
+    },
+    {
+      "name": "demo_database_desc_placeholder",
+      "value": "请输入描述（可选）"
+    },
+    {
+      "name": "demo_database_action_save",
+      "value": "保存"
+    },
+    {
+      "name": "demo_database_action_delete",
+      "value": "删除"
+    },
+    {
+      "name": "demo_database_empty",
+      "value": "暂无数据"
+    },
+    {
+      "name": "demo_database_untitled",
+      "value": "未命名"
+    },
+    {
+      "name": "demo_local_storage_title",
+      "value": "本地存储示例"
+    },
+    {
+      "name": "demo_local_storage_account_label",
+      "value": "账号"
+    },
+    {
+      "name": "demo_local_storage_account_placeholder",
+      "value": "请输入账号"
+    },
+    {
+      "name": "demo_local_storage_action_save",
+      "value": "保存"
+    },
+    {
+      "name": "demo_local_storage_action_load",
+      "value": "读取"
+    },
+    {
+      "name": "demo_local_storage_value_empty",
+      "value": "未设置"
+    },
+    {
+      "name": "demo_network_request_title",
+      "value": "网络请求"
+    },
+    {
+      "name": "demo_network_request_get_action",
+      "value": "GET 请求"
+    },
+    {
+      "name": "demo_network_request_post_action",
+      "value": "POST 请求"
+    },
+    {
+      "name": "demo_network_request_get_success",
+      "value": "请求成功 商品标题为: %s"
+    },
+    {
+      "name": "demo_network_request_post_success",
+      "value": "POST 请求成功"
+    },
+    {
+      "name": "demo_navigation_with_args_title",
+      "value": "带参跳转"
+    },
+    {
+      "name": "demo_navigation_with_args_goods_id_label",
+      "value": "商品 ID"
+    },
+    {
+      "name": "demo_navigation_with_args_goods_name_label",
+      "value": "商品名称"
+    },
+    {
+      "name": "demo_navigation_with_args_value_empty",
+      "value": "未传入"
+    },
+    {
+      "name": "demo_navigation_result_title",
+      "value": "结果回传"
+    },
+    {
+      "name": "demo_navigation_result_title_label",
+      "value": "标题"
+    },
+    {
+      "name": "demo_navigation_result_title_placeholder",
+      "value": "请输入标题"
+    },
+    {
+      "name": "demo_navigation_result_desc_label",
+      "value": "说明"
+    },
+    {
+      "name": "demo_navigation_result_desc_placeholder",
+      "value": "请输入说明"
+    },
+    {
+      "name": "demo_navigation_result_action_submit",
+      "value": "带参返回"
+    },
+    {
+      "name": "demo_state_management_title",
+      "value": "状态管理示例"
+    },
+    {
+      "name": "demo_state_management_count_label",
+      "value": "当前计数"
+    },
+    {
+      "name": "demo_state_management_action_decrement",
+      "value": "－"
+    },
+    {
+      "name": "demo_state_management_action_increment",
+      "value": "＋"
+    },
+    {
+      "name": "demo_state_management_action_reset",
+      "value": "重置"
+    },
+    {
+      "name": "demo_safe_area_title",
+      "value": "安全区示例"
+    },
+    {
+      "name": "demo_safe_area_unit_tip",
+      "value": "以下数值单位为 vp"
+    },
+    {
+      "name": "demo_safe_area_top_label",
+      "value": "顶部安全区"
+    },
+    {
+      "name": "demo_safe_area_left_label",
+      "value": "左侧安全区"
+    },
+    {
+      "name": "demo_safe_area_bottom_label",
+      "value": "底部安全区"
+    },
+    {
+      "name": "demo_safe_area_right_label",
+      "value": "右侧安全区"
+    },
+    {
+      "name": "demo_screen_adapt_title",
+      "value": "屏幕适配示例"
+    },
+    {
+      "name": "demo_screen_adapt_current_breakpoint_label",
+      "value": "当前断点"
+    },
+    {
+      "name": "demo_screen_adapt_tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "demo_screen_adapt_tab_category",
+      "value": "分类"
+    },
+    {
+      "name": "demo_screen_adapt_tab_mine",
+      "value": "我的"
+    },
+    {
+      "name": "demo_screen_adapt_grid_section_title",
+      "value": "网格布局适配"
+    },
+    {
+      "name": "demo_screen_adapt_list_section_title",
+      "value": "列表布局适配"
+    },
+    {
+      "name": "demo_screen_adapt_grid_item_format",
+      "value": "网格项 %d"
+    },
+    {
+      "name": "demo_screen_adapt_list_item_format",
+      "value": "列表项 %d"
+    },
+    {
+      "name": "demo_screen_adapt_grid_desc",
+      "value": "根据屏幕大小调整列数"
+    },
+    {
+      "name": "demo_screen_adapt_list_desc",
+      "value": "小屏一列，大屏两列"
+    },
+    {
+      "name": "demo_screen_adapt_breakpoint_title",
+      "value": "当前断点"
+    },
+    {
+      "name": "demo_screen_adapt_breakpoint_label",
+      "value": "断点类型"
+    },
+    {
+      "name": "demo_screen_adapt_text_section_title",
+      "value": "文本/大小适配"
+    },
+    {
+      "name": "demo_screen_adapt_size_section_title",
+      "value": "大小适配"
+    },
+    {
+      "name": "demo_screen_adapt_text_title",
+      "value": "标题字号随屏幕变化"
+    },
+    {
+      "name": "demo_screen_adapt_text_desc",
+      "value": "通过 bp 设置不同断点字号与尺寸"
+    },
+    {
+      "name": "demo_screen_adapt_text_sample",
+      "value": "示例文字会随屏幕变化"
+    },
+    {
+      "name": "demo_screen_adapt_text_adaptive_label",
+      "value": "适配文本"
+    },
+    {
+      "name": "demo_screen_adapt_text_fixed_label",
+      "value": "固定文本"
+    },
+    {
+      "name": "demo_screen_adapt_size_title",
+      "value": "尺寸随屏幕变化"
+    },
+    {
+      "name": "demo_screen_adapt_size_desc",
+      "value": "通过 bp 设置不同断点尺寸"
+    },
+    {
+      "name": "demo_screen_adapt_size_label",
+      "value": "示例尺寸：%s"
+    }
+  ]
+}

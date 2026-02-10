@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "login_title",
+      "value": "Login"
+    },
+    {
+      "name": "login_action",
+      "value": "Tap to Login"
+    },
+    {
+      "name": "login_success",
+      "value": "Login success"
+    }
+  ]
+}

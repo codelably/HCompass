@@ -1,0 +1,9 @@
+{
+  "name": "@core/common",
+  "version": "1.0.0",
+  "description": "Common Definitions for Framework",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

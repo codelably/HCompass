@@ -1,0 +1,22 @@
+{
+  "name": "@package/main",
+  "version": "1.0.0",
+  "description": "主页功能包 - 提供应用首页、关于页等主要页面",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@core/base": "file:../../core/base",
+    "@core/di": "file:../../core/di",
+    "@core/module": "file:../../core/module",
+    "@core/navigation": "file:../../core/navigation",
+    "@core/designsystem": "file:../../core/designsystem",
+    "@core/components": "file:../../core/components",
+    "@core/layoutstate": "file:../../core/layoutstate",
+    "@core/ibestui": "file:../../core/ibestui",
+    "@core/util": "file:../../core/util",
+    "@shared/contracts": "file:../../shared/contracts",
+    "@shared/state": "file:../../shared/state",
+    "@shared/types": "file:../../shared/types"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@core/module",
+  "version": "1.0.0",
+  "description": "Module registration system for Framework",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@core/util": "file:../util",
+    "@core/di": "file:../di",
+    "@core/navigation": "file:../navigation"
+  }
+}

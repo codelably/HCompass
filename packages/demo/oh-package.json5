@@ -1,0 +1,26 @@
+{
+  "name": "@package/demo",
+  "version": "1.0.0",
+  "description": "示例功能包 - 提供框架功能演示和示例代码",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@ohos/axios": "2.2.7",
+    "@core/base": "file:../../core/base",
+    "@core/di": "file:../../core/di",
+    "@core/module": "file:../../core/module",
+    "@core/common": "file:../../core/common",
+    "@core/navigation": "file:../../core/navigation",
+    "@core/network": "file:../../core/network",
+    "@core/layoutstate": "file:../../core/layoutstate",
+    "@core/util": "file:../../core/util",
+    "@core/designsystem": "file:../../core/designsystem",
+    "@core/components": "file:../../core/components",
+    "@core/ibestui": "file:../../core/ibestui",
+    "@core/database": "file:../../core/database",
+    "@shared/state": "file:../../shared/state",
+    "@shared/contracts": "file:../../shared/contracts",
+    "@shared/types": "file:../../shared/types"
+  }
+}

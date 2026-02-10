@@ -1,0 +1,196 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyProject"
+    },
+    {
+      "name": "core",
+      "value": "Core"
+    },
+    {
+      "name": "navigation",
+      "value": "Navigation"
+    },
+    {
+      "name": "about",
+      "value": "About"
+    },
+    {
+      "name": "expand",
+      "value": "Expand"
+    },
+    {
+      "name": "main_about_desc",
+      "value": "An elegant HarmonyOS rapid development framework."
+    },
+    {
+      "name": "main_about_link_github_title",
+      "value": "GitHub"
+    },
+    {
+      "name": "main_about_link_github_url",
+      "value": "https://github.com/codelably/HCompass"
+    },
+    {
+      "name": "main_about_link_atomgit_title",
+      "value": "GitCode"
+    },
+    {
+      "name": "main_about_link_atomgit_url",
+      "value": "https://atomgit.com/codelably/HCompass"
+    },
+    {
+      "name": "main_about_link_ui_title",
+      "value": "IBest-UI-V2"
+    },
+    {
+      "name": "main_about_link_ui_url",
+      "value": "https://ibestui-v2.ibestservices.com"
+    },
+    {
+      "name": "main_about_link_orm_title",
+      "value": "IBest-ORM"
+    },
+    {
+      "name": "main_about_link_orm_url",
+      "value": "https://ibest-orm.ibestservices.com"
+    },
+    {
+      "name": "main_about_link_doc_title",
+      "value": "Framework Docs"
+    },
+    {
+      "name": "main_about_link_doc_url",
+      "value": "https://hcompass.codelably.com"
+    },
+    {
+      "name": "main_about_link_demo_github_title",
+      "value": "青商城 GitHub"
+    },
+    {
+      "name": "main_about_link_demo_github_url",
+      "value": "https://github.com/Joker-x-dev/CoolMallArkTS"
+    },
+    {
+      "name": "main_about_link_demo_gitee_title",
+      "value": "青商城 Gitee"
+    },
+    {
+      "name": "main_about_link_demo_gitee_url",
+      "value": "https://gitee.com/Joker-x-dev/CoolMallArkTS"
+    },
+    {
+      "name": "main_core_network_demo_title",
+      "value": "Network Demo"
+    },
+    {
+      "name": "main_core_network_demo_desc",
+      "value": "Unifies loading/error/success UI so you only provide data."
+    },
+    {
+      "name": "main_core_network_list_demo_title",
+      "value": "Network List Demo"
+    },
+    {
+      "name": "main_core_network_list_demo_desc",
+      "value": "Paged list handles empty/error/loading; you focus on render."
+    },
+    {
+      "name": "main_core_database_title",
+      "value": "Database"
+    },
+    {
+      "name": "main_core_database_desc",
+      "value": "Basic CRUD demo on a table."
+    },
+    {
+      "name": "main_core_local_storage_title",
+      "value": "Local Storage"
+    },
+    {
+      "name": "main_core_local_storage_desc",
+      "value": "Local storage write/clear demo with simple CRUD."
+    },
+    {
+      "name": "main_core_state_management_title",
+      "value": "State Management"
+    },
+    {
+      "name": "main_core_state_management_desc",
+      "value": "Global state sharing demo across pages."
+    },
+    {
+      "name": "main_core_counter_label",
+      "value": "Current Count"
+    },
+    {
+      "name": "main_core_network_request_title",
+      "value": "Network Request"
+    },
+    {
+      "name": "main_core_network_request_desc",
+      "value": "Simple network request demo."
+    },
+    {
+      "name": "main_navigation_with_args_title",
+      "value": "Navigation With Args"
+    },
+    {
+      "name": "main_navigation_with_args_desc",
+      "value": "Type-safe params with goods ID and name."
+    },
+    {
+      "name": "main_navigation_goods_name",
+      "value": "Sample Goods"
+    },
+    {
+      "name": "main_navigation_result_title",
+      "value": "Navigation Result"
+    },
+    {
+      "name": "main_navigation_result_desc",
+      "value": "Type-safe result using DemoResult."
+    },
+    {
+      "name": "main_navigation_result_title_label",
+      "value": "Result Title"
+    },
+    {
+      "name": "main_navigation_result_desc_label",
+      "value": "Result Description"
+    },
+    {
+      "name": "main_navigation_result_value_empty",
+      "value": "No result returned"
+    },
+    {
+      "name": "main_navigation_intercept_title",
+      "value": "Navigation Intercept"
+    },
+    {
+      "name": "main_navigation_intercept_desc",
+      "value": "If not logged in, go to Login; after login, open Profile."
+    },
+    {
+      "name": "main_navigation_logged_in",
+      "value": "Logged in"
+    },
+    {
+      "name": "main_expand_safe_area_title",
+      "value": "Safe Area"
+    },
+    {
+      "name": "main_expand_safe_area_desc",
+      "value": "Shows safe area insets for notch and gesture area adaptation."
+    },
+    {
+      "name": "main_expand_screen_adapt_title",
+      "value": "Screen Adapt"
+    },
+    {
+      "name": "main_expand_screen_adapt_desc",
+      "value": "Shows breakpoint and window width for responsive layouts."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@core/di",
+  "version": "1.0.0",
+  "description": "Dependency Injection Container for Framework",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@core/common": "file:../common"
+  }
+}

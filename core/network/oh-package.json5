@@ -1,0 +1,14 @@
+{
+  "name": "@core/network",
+  "version": "1.0.0",
+  "description": "Network abstraction layer for Framework",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@core/util": "file:../util",
+    "@core/common": "file:../common",
+    "@core/di": "file:../di",
+    "@ohos/axios": "2.2.7"
+  }
+}

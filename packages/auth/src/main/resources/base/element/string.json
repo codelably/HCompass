@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "login_title",
+      "value": "登录"
+    },
+    {
+      "name": "login_action",
+      "value": "点击登录"
+    },
+    {
+      "name": "login_success",
+      "value": "登录成功"
+    }
+  ]
+}

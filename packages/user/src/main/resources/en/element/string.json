@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "user_profile_title",
+      "value": "Profile"
+    },
+    {
+      "name": "user_profile_nickname_label",
+      "value": "Nickname"
+    },
+    {
+      "name": "user_profile_id_label",
+      "value": "User ID"
+    },
+    {
+      "name": "user_profile_phone_label",
+      "value": "Phone"
+    },
+    {
+      "name": "user_profile_nickname_empty",
+      "value": "Not logged in"
+    },
+    {
+      "name": "user_profile_id_empty",
+      "value": "Not logged in"
+    },
+    {
+      "name": "user_profile_phone_empty",
+      "value": "Not logged in"
+    },
+    {
+      "name": "user_profile_logout_action",
+      "value": "Logout"
+    }
+  ]
+}

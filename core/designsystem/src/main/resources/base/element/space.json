@@ -1,0 +1,94 @@
+{
+  "float": [
+    {
+      "name": "space_vertical_large_xx",
+      "value": "32vp",
+      "comment": "超大垂直间距：页面块与块之间"
+    },
+    {
+      "name": "space_vertical_large_x",
+      "value": "24vp",
+      "comment": "特大垂直间距：大模块内部间距"
+    },
+    {
+      "name": "space_vertical_large",
+      "value": "16vp",
+      "comment": "大垂直间距：卡片内部主要内容"
+    },
+    {
+      "name": "space_vertical_medium",
+      "value": "12vp",
+      "comment": "中等垂直间距：常规内容间距"
+    },
+    {
+      "name": "space_vertical_small",
+      "value": "8vp",
+      "comment": "小垂直间距：紧凑布局"
+    },
+    {
+      "name": "space_vertical_small_x",
+      "value": "4vp",
+      "comment": "超小垂直间距：最小间隔"
+    },
+    {
+      "name": "space_horizontal_large_xx",
+      "value": "32vp",
+      "comment": "超大水平间距：页面左右边距"
+    },
+    {
+      "name": "space_horizontal_large_x",
+      "value": "24vp",
+      "comment": "特大水平间距：大型容器内间距"
+    },
+    {
+      "name": "space_horizontal_large",
+      "value": "16vp",
+      "comment": "大水平间距：常规容器边距"
+    },
+    {
+      "name": "space_horizontal_medium",
+      "value": "12vp",
+      "comment": "中等水平间距：列表项左右间距"
+    },
+    {
+      "name": "space_horizontal_small",
+      "value": "8vp",
+      "comment": "小水平间距：紧凑布局"
+    },
+    {
+      "name": "space_horizontal_small_x",
+      "value": "4vp",
+      "comment": "超小水平间距：最小间隔"
+    },
+    {
+      "name": "space_padding_large",
+      "value": "16vp",
+      "comment": "大内边距：卡片/对话框"
+    },
+    {
+      "name": "space_padding_medium",
+      "value": "12vp",
+      "comment": "中等内边距：按钮/输入框"
+    },
+    {
+      "name": "space_padding_small",
+      "value": "8vp",
+      "comment": "小内边距：紧凑组件"
+    },
+    {
+      "name": "space_padding_small_x",
+      "value": "4vp",
+      "comment": "超小内边距：标签/徽章"
+    },
+    {
+      "name": "space_divider",
+      "value": "0.5vp",
+      "comment": "分割线高度"
+    },
+    {
+      "name": "space_indicator",
+      "value": "2vp",
+      "comment": "指示器高度"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@core/ibestui",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@ibestservices/ibest-ui-v2": "^1.0.8",
+    "@core/designsystem": "file:../designsystem"
+  }
+}

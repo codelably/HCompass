@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "user_profile_title",
+      "value": "个人中心"
+    },
+    {
+      "name": "user_profile_nickname_label",
+      "value": "昵称"
+    },
+    {
+      "name": "user_profile_id_label",
+      "value": "用户ID"
+    },
+    {
+      "name": "user_profile_phone_label",
+      "value": "手机号"
+    },
+    {
+      "name": "user_profile_nickname_empty",
+      "value": "未登录"
+    },
+    {
+      "name": "user_profile_id_empty",
+      "value": "未登录"
+    },
+    {
+      "name": "user_profile_phone_empty",
+      "value": "未登录"
+    },
+    {
+      "name": "user_profile_logout_action",
+      "value": "退出登录"
+    }
+  ]
+}

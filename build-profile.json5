@@ -1,0 +1,118 @@
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "targetSdkVersion": "6.0.1(21)",
+        "compatibleSdkVersion": "6.0.1(21)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "di",
+      "srcPath": "./core/di",
+    },
+    {
+      "name": "common",
+      "srcPath": "./core/common",
+    },
+    {
+      "name": "network",
+      "srcPath": "./core/network",
+    },
+    {
+      "name": "designsystem",
+      "srcPath": "./core/designsystem",
+    },
+    {
+      "name": "ibestui",
+      "srcPath": "./core/ibestui",
+    },
+    {
+      "name": "util",
+      "srcPath": "./core/util",
+    },
+    {
+      "name": "navigation",
+      "srcPath": "./core/navigation",
+    },
+    {
+      "name": "module",
+      "srcPath": "./core/module",
+    },
+    {
+      "name": "base",
+      "srcPath": "./core/base",
+    },
+    {
+      "name": "layoutstate",
+      "srcPath": "./core/layoutstate",
+    },
+    {
+      "name": "components",
+      "srcPath": "./core/components",
+    },
+    {
+      "name": "main",
+      "srcPath": "./packages/main",
+    },
+    {
+      "name": "state",
+      "srcPath": "./shared/state",
+    },
+    {
+      "name": "contracts",
+      "srcPath": "./shared/contracts",
+    },
+    {
+      "name": "types",
+      "srcPath": "./shared/types",
+    },
+    {
+      "name": "auth",
+      "srcPath": "./packages/auth",
+    },
+    {
+      "name": "user",
+      "srcPath": "./packages/user",
+    },
+    {
+      "name": "demo",
+      "srcPath": "./packages/demo",
+    },
+    {
+      "name": "database",
+      "srcPath": "./core/database",
+    }
+  ]
+}
