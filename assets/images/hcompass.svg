@@ -1,0 +1,21 @@
+<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#47caff"/>
+      <stop offset="30%"  stop-color="#47caff"/>
+      <stop offset="50%"  stop-color="#bd34fe"/>
+      <stop offset="100%" stop-color="#bd34fe"/>
+    </linearGradient>
+  </defs>
+  <text
+          x="50%"
+          y="78"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+          font-size="64"
+          font-weight="700"
+          fill="url(#grad)"
+  >
+    HCompass
+  </text>
+</svg>
