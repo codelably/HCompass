@@ -2,7 +2,25 @@
   <img alt="HCompass Logo" src="assets/images/logo.svg" width="100">
 </p>
 
-<h1 align="center">HCompass</h1>
+<style>
+  .glow {
+    background: linear-gradient(90deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #f7dc6f);
+    background-size: 300% 300%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient 4s ease infinite;
+    font-weight: bold;
+    font-size: 2.5rem;
+  }
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
+
+<h1 align="center" class="glow">HCompass</h1>
 
 <p align="center">
   模块化、可复用的 HarmonyOS 快速开发框架
