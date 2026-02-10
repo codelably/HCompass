@@ -1,4 +1,4 @@
-<svg width="800" height="480" viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="380" viewBox="0 0 800 380" xmlns="http://www.w3.org/2000/svg">
   <style>
     .layer { fill: #f8fafc; stroke: #cbd5e1; stroke-width: 1.5; }
     .header { font-family: system-ui, -apple-system, sans-serif; font-size: 16px; font-weight: 600; fill: #1e293b; }

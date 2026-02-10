@@ -38,7 +38,6 @@ HCompass 采用 **四层架构** 设计，从下到上依次为：
     <img alt="HCompass Logo" src="assets/images/framework-structure.svg" width="800">
 </div>
 
-
 | 层级 | 职责 | 说明 |
 |------|------|------|
 | **Entry** | 应用入口 | 初始化框架、注册功能包、配置路由、启动应用 |
