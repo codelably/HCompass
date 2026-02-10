@@ -1,0 +1,37 @@
+<svg width="800" height="480" viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .layer { fill: #f8fafc; stroke: #cbd5e1; stroke-width: 1.5; }
+    .header { font-family: system-ui, -apple-system, sans-serif; font-size: 16px; font-weight: 600; fill: #1e293b; }
+    .content { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: #475569; }
+    .divider { stroke: #cbd5e1; stroke-width: 1.2; }
+    .corner { fill: none; stroke: #cbd5e1; stroke-width: 1.5; }
+  </style>
+
+  <!-- 外框圆角矩形 -->
+  <rect x="40" y="30" width="720" height="340" rx="8" ry="8" class="layer"/>
+
+  <!-- 分隔线（3条横线） -->
+  <line x1="40" y1="100" x2="760" y2="100" class="divider"/>
+  <line x1="40" y1="180" x2="760" y2="180" class="divider"/>
+  <line x1="40" y1="260" x2="760" y2="260" class="divider"/>
+
+  <!-- 层级标题与内容 -->
+  <!-- Entry -->
+  <text x="400" y="60" text-anchor="middle" class="header">Entry / 应用入口</text>
+  <text x="400" y="80" text-anchor="middle" class="content">初始化框架，配置应用</text>
+
+  <!-- Packages -->
+  <text x="400" y="140" text-anchor="middle" class="header">Packages / 业务功能包层</text>
+  <text x="400" y="160" text-anchor="middle" class="content">auth / demo / main / user ...</text>
+
+  <!-- Shared -->
+  <text x="400" y="220" text-anchor="middle" class="header">Shared / 共享契约层</text>
+  <text x="400" y="240" text-anchor="middle" class="content">contracts / state / types ...</text>
+
+  <!-- Core -->
+  <text x="400" y="300" text-anchor="middle" class="header">Core / 框架核心层</text>
+  <text x="400" y="320" text-anchor="middle" class="content">base / designsystem / components / database / di</text>
+  <text x="400" y="340" text-anchor="middle" class="content">navigation / network / util / ibestui ...</text>
+
+
+</svg>
