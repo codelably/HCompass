@@ -113,6 +113,10 @@
     {
       "name": "database",
       "srcPath": "./core/database",
+    },
+    {
+      "name": "testing",
+      "srcPath": "./core/testing",
     }
   ]
 }

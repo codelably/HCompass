@@ -1,0 +1,11 @@
+{
+  "name": "@core/testing",
+  "version": "1.0.0",
+  "description": "提供测试工具基座",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@core/di": "file:../../core/di"
+  }
+}
