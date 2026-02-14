@@ -1,6 +1,20 @@
 {
   "app": {
-    "signingConfigs": [],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "storeFile": "D:/Huawei/DevEcoStudioProjects/HCompass/signature/hcompass.p12",
+          "storePassword": "000000207089EBEA3D852570FD4E8453CAF9B0769C0D853D81AA483360E689A8500CA7F04992281CF4538692D78E949D",
+          "keyAlias": "HCompass",
+          "keyPassword": "000000209B95DA7988625172B55D1B0BAD20FF84B3133C473D84D06E77D2FE66F742FF9EDD6516FE01C6408F4EFBDF8F",
+          "signAlg": "SHA256withECDSA",
+          "profile": "D:/Huawei/DevEcoStudioProjects/HCompass/signature/HCompassProfileDebug.p7b",
+          "certpath": "D:/Huawei/DevEcoStudioProjects/HCompass/signature/HCompass.cer"
+        }
+      }
+    ],
     "products": [
       {
         "name": "default",

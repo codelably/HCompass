@@ -85,6 +85,12 @@ export default class EntryAbility extends UIAbility {
   onBackground(): void {}
 
   /**
+   * 应用被重复拉起时调用
+   * 响应三方登录状态
+   */
+  onNewWant(want: Want, launchParam: AbilityConstant.LaunchParam): void {}
+
+  /**
    * 初始化新框架
    * 包括配置、DI 容器、模块注册等
    */

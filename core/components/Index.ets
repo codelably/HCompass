@@ -18,3 +18,5 @@ export { EmptyData } from "./src/main/ets/component/empty/EmptyData";
 export { EmptyError } from "./src/main/ets/component/empty/EmptyError";
 
 export { EmptyNetwork } from "./src/main/ets/component/empty/EmptyNetwork";
+
+export { CommonIcon } from "./src/main/ets/component/icon/CommonIcon";

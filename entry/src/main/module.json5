@@ -9,6 +9,13 @@
       "tablet",
       "2in1"
     ],
+    "querySchemes": [
+      "apmqpdispatch",
+      "weixin",
+      "wxopensdk",
+      "qqopenapi",
+      "https"
+    ],
     "deliveryWithInstall": true,
     "installationFree": false,
     "pages": "$profile:main_pages",
@@ -25,10 +32,21 @@
         "skills": [
           {
             "entities": [
-              "entity.system.home"
+              "entity.system.home",
+              "entity.system.browsable"
             ],
             "actions": [
-              "ohos.want.action.home"
+              "ohos.want.action.home",
+              "wxentity.action.open",
+              "ohos.want.action.viewData"
+            ],
+            "uris": [
+              {
+                "scheme": "qqopenapi", // 接收 QQ 回调数据
+                "host": "xxxxxxxxx", // 业务申请的互联 appId，如果填错会导致 QQ 无法回调
+                "pathRegex": "\\b(auth|share)\\b",
+                "linkFeature": "Login"
+              }
             ]
           }
         ]

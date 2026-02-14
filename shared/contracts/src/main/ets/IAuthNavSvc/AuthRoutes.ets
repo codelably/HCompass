@@ -7,4 +7,9 @@ export class AuthRoutes {
    * 登录路由
    */
   static Login = "auth/login";
+
+  /**
+   * 短信验证码登录路由
+   */
+  static SmsLogin = "auth/sms-login";
 }

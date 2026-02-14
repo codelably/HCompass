@@ -13,4 +13,5 @@ export class AuthNavSvcImpl implements IAuthNavSvc {
     const navigation = getContainer().tryResolve<NavigationService>(CoreServiceKeys.NavigationService);
     navigation?.navigateTo(AuthRoutes.Login);
   }
+  toSmsLogin(): void {}
 }

@@ -17,5 +17,11 @@ export interface IAuthNavSvc {
    * @returns {void} 无返回值
    */
   toLogin(): void;
+
+  /**
+   * 跳转到短信登录页面
+   * @returns {void} 无返回值
+   */
+  toSmsLogin(): void;
 }
 
