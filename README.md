@@ -1,9 +1,9 @@
 <p align="center">
-  <img alt="HCompass Logo" src="assets/images/logo.svg" width="100">
+  <img alt="HCompass Logo" src="https://codelably.github.io/HCompass/assets/images/logo.svg" width="100">
 </p>
 
 <div align="center">
-    <img alt="HCompass Logo" src="assets/images/hcompass.svg" alt="HCompass" width="350">
+    <img alt="HCompass Logo" src="https://codelably.github.io/HCompass/assets/images/hcompass.svg" alt="HCompass" width="350">
 </div>
 
 <p align="center">
@@ -35,7 +35,7 @@ HCompass 是一个基于 **HarmonyOS NEXT / ArkTS / ArkUI** 的快速开发框�
 HCompass 采用 **四层架构** 设计，从下到上依次为：
 
 <div>
-    <img alt="HCompass Logo" src="assets/images/framework-structure.svg" width="800">
+    <img alt="HCompass Logo" src="https://codelably.github.io/HCompass/assets/images/framework-structure.svg" width="800">
 </div>
 
 每一层的边界职责如下：
