@@ -1,9 +1,9 @@
 <p align="center">
-  <img alt="HCompass Logo" src="https://codelably.github.io/HCompass/assets/images/logo.svg" width="100">
+  <img alt="HCompass Logo" src="https://hcompass.codelably.com/storecache_/hcompass/assets/images/logo.svg" width="100">
 </p>
 
 <div align="center">
-    <img alt="HCompass Logo" src="https://codelably.github.io/HCompass/assets/images/hcompass.svg" alt="HCompass" width="350">
+    <img alt="HCompass Logo" src="https://hcompass.codelably.com/storecache_/hcompass/assets/images/hcompass.svg" alt="HCompass" width="350">
 </div>
 
 <p align="center">
@@ -30,14 +30,14 @@ HCompass 是一个基于 **HarmonyOS NEXT / ArkTS / ArkUI** 的快速开发框�
 - **可复用**：通过封装通用组件、工具或页面等模块，让研发人员无需深入了解细节，即可专注于上层业务的开发。
 - **开源生态**：鼓励开发者贡献开源功能包，不断积累迭代通用的核心模块，形成共享生态，减少重复劳动。
 
-![手机端效果图](https://codelably.github.io/HCompass/assets/images/preview/mobile.png)
+![手机端效果图](https://hcompass.codelably.com/storecache_/hcompass/assets/images/preview/mobile.png)
 
 ## 架构设计
 
 HCompass 采用 **四层架构** 设计，从下到上依次为：
 
 <div>
-    <img alt="HCompass Logo" src="https://codelably.github.io/HCompass/assets/images/framework-structure.svg" width="800">
+    <img alt="HCompass Logo" src="https://hcompass.codelably.com/storecache_/hcompass/assets/images/framework-structure.svg" width="800">
 </div>
 
 每一层的边界职责如下：
