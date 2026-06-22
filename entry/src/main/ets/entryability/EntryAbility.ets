@@ -15,6 +15,8 @@ import { createMainModule } from '@package/main';
 import { createAuthModule } from '@package/auth';
 import { createUserModule } from '@package/user';
 import { createDemoModule } from '@package/demo';
+import { createSpatializationModule } from '@package/spatialization';
+import { WindowUtil } from '@core/spatialization';
 
 const DOMAIN = 0x0000;
 
@@ -49,6 +51,7 @@ export default class EntryAbility extends UIAbility {
   async onWindowStageCreate(windowStage: window.WindowStage): Promise<void> {
     windowStage.loadContent('view/EntryPage', (_) => {
       IBestUIInitializer.initIBestUI(windowStage, this.context);
+      WindowUtil.initialize(windowStage);
     });
   }
 
@@ -139,6 +142,7 @@ export default class EntryAbility extends UIAbility {
       module.register(createAuthModule());
       module.register(createUserModule());
       module.register(createDemoModule());
+      module.register(createSpatializationModule());
     } catch (err) {
       hilog.error(DOMAIN, 'testTag', '[Framework] Framework init error: %{public}s', JSON.stringify(err));
     }

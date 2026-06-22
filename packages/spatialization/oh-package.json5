@@ -1,0 +1,14 @@
+{
+  "name": "@package/spatialization",
+  "version": "1.0.0",
+  "description": "HDS 沉浸光感演示包，展示首眼沉浸、自适应悬浮导航等场景",
+  "main": "Index.ets",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@core/spatialization": "file:../../core/spatialization",
+    "@core/module": "file:../../core/module",
+    "@core/di": "file:../../core/di",
+    "@core/navigation": "file:../../core/navigation",
+    "@core/util": "file:../../core/util"
+  }
+}

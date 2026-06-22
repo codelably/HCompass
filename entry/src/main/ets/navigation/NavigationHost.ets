@@ -2,7 +2,7 @@ import { CoreServiceKeys, getContainer } from '@core/di';
 import { getModuleRegistry } from '@core/module';
 import { NAV_PATH_STACK_KEY, RouteBuild, NavigationService } from '@core/navigation';
 import { NetworkConfig } from "@core/network";
-import { MainPage } from '@package/main';
+import { MainPage, HdsMainPage } from '@package/main';
 
 /**
  * @file 挂载全局导航栈
@@ -16,6 +16,8 @@ export struct NavigationHost {
    */
   @Provider(NAV_PATH_STACK_KEY)
   navPathStack: NavPathStack = new NavPathStack();
+
+  @Param isHds: boolean = false;
 
   aboutToAppear(): void {
     // 获取 DI 容器
@@ -54,7 +56,11 @@ export struct NavigationHost {
    */
   build() {
     Navigation(this.navPathStack) {
-      MainPage()
+      if (this.isHds) {
+        HdsMainPage()
+      } else {
+        MainPage()
+      }
     }
     .hideTitleBar(true)
     .mode(NavigationMode.Stack)

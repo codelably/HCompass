@@ -20,7 +20,9 @@
     "@package/main": "file:../packages/main",
     "@package/auth": "file:../packages/auth",
     "@package/user": "file:../packages/user",
-    "@package/demo": "file:../packages/demo"
+    "@package/demo": "file:../packages/demo",
+    "@core/spatialization": "file:../core/spatialization",
+    "@package/spatialization": "file:../packages/spatialization"
   }
 }
 

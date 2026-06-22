@@ -191,6 +191,22 @@
     {
       "name": "main_expand_screen_adapt_desc",
       "value": "展示断点与窗口宽度，便于响应式布局适配。"
+    },
+    {
+      "name": "main_expand_immersive_light_title",
+      "value": "首眼沉浸光感"
+    },
+    {
+      "name": "main_expand_immersive_light_desc",
+      "value": "HDS 沉浸式标题栏与悬浮导航栏材质效果演示。"
+    },
+    {
+      "name": "main_expand_adaptive_tab_title",
+      "value": "自适应悬浮导航"
+    },
+    {
+      "name": "main_expand_adaptive_tab_desc",
+      "value": "MiniBar 折叠展开、智感握姿自适应交互演示。"
     }
   ]
 }

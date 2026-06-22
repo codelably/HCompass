@@ -1,0 +1,10 @@
+{
+  "name": "@core/spatialization",
+  "version": "1.0.0",
+  "description": "HDS 沉浸光感核心能力：窗口信息管理、沉浸材质工具",
+  "main": "Index.ets",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@core/util": "file:../util"
+  }
+}

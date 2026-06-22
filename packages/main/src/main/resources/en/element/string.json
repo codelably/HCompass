@@ -191,6 +191,22 @@
     {
       "name": "main_expand_screen_adapt_desc",
       "value": "Shows breakpoint and window width for responsive layouts."
+    },
+    {
+      "name": "main_expand_immersive_light_title",
+      "value": "Immersive Light Sense"
+    },
+    {
+      "name": "main_expand_immersive_light_desc",
+      "value": "HDS immersive material effect on title bar and floating tabs."
+    },
+    {
+      "name": "main_expand_adaptive_tab_title",
+      "value": "Adaptive Floating Nav"
+    },
+    {
+      "name": "main_expand_adaptive_tab_desc",
+      "value": "MiniBar collapse/expand and handedness-aware floating tabs."
     }
   ]
 }

@@ -4,6 +4,7 @@
  */
 
 export { AppNavDestination } from "./src/main/ets/component/navdestination/AppNavDestination";
+export { AppHdsNavDestination } from "./src/main/ets/component/navdestination/AppHdsNavDestination";
 
 export { BaseNetWorkView } from "./src/main/ets/component/network/BaseNetWorkView";
 

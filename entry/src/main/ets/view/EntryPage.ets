@@ -38,7 +38,7 @@ struct EntryPage {
    */
   build() {
     Column() {
-      NavigationHost()
+      NavigationHost({ isHds: true })
     }
   }
 }

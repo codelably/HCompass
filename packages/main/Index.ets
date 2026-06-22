@@ -9,4 +9,5 @@ export { MainModule, createMainModule } from './src/main/ets/MainModule';
 
 // 视图导出
 export { MainPage } from './src/main/ets/view/MainPage';
+export { HdsMainPage } from './src/main/ets/view/HdsMainPage';
 
