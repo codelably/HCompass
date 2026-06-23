@@ -12,7 +12,6 @@
 /.appanalyzer
 /context_
 /docs
-/.claude
 CLAUDE.md
 /ecosystem
 /packages/login
